@@ -22,7 +22,7 @@ This web application performs Optical Character Recognition (OCR) on uploaded im
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Abhi5143/ocr_web_app.git
+   git clone https://github.com/CuriousAnmol/ocr_web_app.git
    cd ocr-document-search-app
    ```
 2. Create and activate a virtual environment:
